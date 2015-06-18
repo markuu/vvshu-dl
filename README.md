@@ -1,14 +1,14 @@
 # vvshu-dl
 Download and create PDF versions of magazines from vvshu.com
 
-# Usage
+## Usage
 
 ```
 ./vvshu-dl url1 url2 ...
 
 ```
 
-#Required gems
+## Required gems
 
 - Nokogiri
 - open-uri
