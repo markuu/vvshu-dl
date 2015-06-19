@@ -125,7 +125,7 @@ class Magazine
 
 end
 
-if ARGV.size == 0
+if ARGV.size == 0 #print usage if script is run without arguments
 	puts "Usage: #{$0} url1 url2 ..."
 else
 	ARGV.each do |mag|
